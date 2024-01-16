@@ -1,0 +1,2 @@
+public class Latihan3 {
+}
